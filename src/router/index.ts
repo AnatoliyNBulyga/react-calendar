@@ -1,4 +1,4 @@
-import React, {ComponentType} from 'react';
+import {ComponentType} from 'react';
 import Login from '../pages/Login';
 import Event from "../pages/Event";
 
